@@ -48,6 +48,8 @@ Ex: Se abrir o word o processo será executado se fechá-lo o processo acabará.
 
 **************Heap:************** Espaço dinâmico geralmente aloca ou desaloca pequenos trechos de memória de acordo com a necessidade dos dados/objetos (não é muito eficiente mas é bastante flexível pois não impõe um modelo)
 
+**************Bloco de dados:************** Armazena memória para os processos e variáveis
+
 ![Diagrama sem nome.drawio (1).svg](Aula%202%20-%20Processos%2005e9dce1e3f9490887cc21424a5c4554/Diagrama_sem_nome.drawio_(1).svg)
 
 ---
