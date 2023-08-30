@@ -1,0 +1,15 @@
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Relogio-de-Threads\Projeto-Relogio-de-Threads\bin\Debug\net7.0\Projeto-Relogio-de-Threads.exe
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Relogio-de-Threads\Projeto-Relogio-de-Threads\bin\Debug\net7.0\Projeto-Relogio-de-Threads.deps.json
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Relogio-de-Threads\Projeto-Relogio-de-Threads\bin\Debug\net7.0\Projeto-Relogio-de-Threads.runtimeconfig.json
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Relogio-de-Threads\Projeto-Relogio-de-Threads\bin\Debug\net7.0\Projeto-Relogio-de-Threads.dll
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Relogio-de-Threads\Projeto-Relogio-de-Threads\bin\Debug\net7.0\Projeto-Relogio-de-Threads.pdb
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Relogio-de-Threads\Projeto-Relogio-de-Threads\obj\Debug\net7.0\Projeto-Relogio-de-Threads.csproj.AssemblyReference.cache
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Relogio-de-Threads\Projeto-Relogio-de-Threads\obj\Debug\net7.0\Projeto-Relogio-de-Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Relogio-de-Threads\Projeto-Relogio-de-Threads\obj\Debug\net7.0\Projeto-Relogio-de-Threads.AssemblyInfoInputs.cache
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Relogio-de-Threads\Projeto-Relogio-de-Threads\obj\Debug\net7.0\Projeto-Relogio-de-Threads.AssemblyInfo.cs
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Relogio-de-Threads\Projeto-Relogio-de-Threads\obj\Debug\net7.0\Projeto-Relogio-de-Threads.csproj.CoreCompileInputs.cache
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Relogio-de-Threads\Projeto-Relogio-de-Threads\obj\Debug\net7.0\Projeto-Relogio-de-Threads.dll
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Relogio-de-Threads\Projeto-Relogio-de-Threads\obj\Debug\net7.0\refint\Projeto-Relogio-de-Threads.dll
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Relogio-de-Threads\Projeto-Relogio-de-Threads\obj\Debug\net7.0\Projeto-Relogio-de-Threads.pdb
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Relogio-de-Threads\Projeto-Relogio-de-Threads\obj\Debug\net7.0\Projeto-Relogio-de-Threads.genruntimeconfig.cache
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Relogio-de-Threads\Projeto-Relogio-de-Threads\obj\Debug\net7.0\ref\Projeto-Relogio-de-Threads.dll
