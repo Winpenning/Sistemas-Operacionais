@@ -29,16 +29,18 @@ namespace Projeto_Relogio_de_Threads.Entities
         {
             while (contando)
             {
-                Thread.Sleep(1000);
+               
                 if (segundo < 59)
                 {
                     segundo++;
+                    Thread.Sleep(1000);
                     // Console.WriteLine("Hora: " + hora + " Minuto: " + minuto + " Segundo: " + segundo);
                 }
                 else if (minuto < 59)
                 {
                     segundo = 0;
                     minuto++;
+                    Thread.Sleep(1000);
                     //Console.WriteLine("Hora: " + hora + " Minuto: " + minuto + " Segundo: " + segundo);
                 }
                 else
@@ -46,6 +48,7 @@ namespace Projeto_Relogio_de_Threads.Entities
                     segundo = 0;
                     minuto = 0;
                     hora++;
+                    Thread.Sleep(1000);
                     // Console.WriteLine("Hora: " + hora + " Minuto: " + minuto + " Segundo: " + segundo);
                 }
             }

@@ -1,0 +1,15 @@
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Escalonamento-de-processos\Escalonamento-de-processos\obj\Debug\net7.0\Escalonamento-de-processos.csproj.AssemblyReference.cache
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Escalonamento-de-processos\Escalonamento-de-processos\obj\Debug\net7.0\Escalonamento-de-processos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Escalonamento-de-processos\Escalonamento-de-processos\obj\Debug\net7.0\Escalonamento-de-processos.AssemblyInfoInputs.cache
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Escalonamento-de-processos\Escalonamento-de-processos\obj\Debug\net7.0\Escalonamento-de-processos.AssemblyInfo.cs
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Escalonamento-de-processos\Escalonamento-de-processos\obj\Debug\net7.0\Escalonamento-de-processos.csproj.CoreCompileInputs.cache
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Escalonamento-de-processos\Escalonamento-de-processos\bin\Debug\net7.0\Escalonamento-de-processos.exe
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Escalonamento-de-processos\Escalonamento-de-processos\bin\Debug\net7.0\Escalonamento-de-processos.deps.json
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Escalonamento-de-processos\Escalonamento-de-processos\bin\Debug\net7.0\Escalonamento-de-processos.runtimeconfig.json
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Escalonamento-de-processos\Escalonamento-de-processos\bin\Debug\net7.0\Escalonamento-de-processos.dll
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Escalonamento-de-processos\Escalonamento-de-processos\bin\Debug\net7.0\Escalonamento-de-processos.pdb
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Escalonamento-de-processos\Escalonamento-de-processos\obj\Debug\net7.0\Escalonamento-de-processos.dll
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Escalonamento-de-processos\Escalonamento-de-processos\obj\Debug\net7.0\refint\Escalonamento-de-processos.dll
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Escalonamento-de-processos\Escalonamento-de-processos\obj\Debug\net7.0\Escalonamento-de-processos.pdb
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Escalonamento-de-processos\Escalonamento-de-processos\obj\Debug\net7.0\Escalonamento-de-processos.genruntimeconfig.cache
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Escalonamento-de-processos\Escalonamento-de-processos\obj\Debug\net7.0\ref\Escalonamento-de-processos.dll

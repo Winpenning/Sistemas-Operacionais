@@ -4,7 +4,7 @@ using System.Threading;
 int segundo = 0;
 int minuto = 0;
 int hora = 0;
-int h = 1;
+int h = 0;
 int m = 0;
 Cronometro cronometro = new Cronometro();
 
@@ -15,7 +15,7 @@ Thread threadAlarme = new Thread(() => { verificaralarme(); });
 
 threadPrincipal.Start();
 threadRelogio.Start();
-threadAlarme.Start();
+//threadAlarme.Start();
 void principal()
 {
 
