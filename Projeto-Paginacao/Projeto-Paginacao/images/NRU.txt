@@ -1,0 +1,4 @@
+Classe 0: não referenciada, não modificada.
+Classe 1: não referenciada, modificada.
+Classe 2: referenciada, não modificada.
+Classe 3: referenciada, modificada.

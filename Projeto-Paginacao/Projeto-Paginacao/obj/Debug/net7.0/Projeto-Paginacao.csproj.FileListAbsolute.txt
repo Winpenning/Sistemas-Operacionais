@@ -1,0 +1,30 @@
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto Paginacao\Projeto-Paginacao\bin\Debug\net7.0\Projeto-Paginacao.exe
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto Paginacao\Projeto-Paginacao\bin\Debug\net7.0\Projeto-Paginacao.deps.json
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto Paginacao\Projeto-Paginacao\bin\Debug\net7.0\Projeto-Paginacao.runtimeconfig.json
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto Paginacao\Projeto-Paginacao\bin\Debug\net7.0\Projeto-Paginacao.dll
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto Paginacao\Projeto-Paginacao\bin\Debug\net7.0\Projeto-Paginacao.pdb
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto Paginacao\Projeto-Paginacao\obj\Debug\net7.0\Projeto-Paginacao.csproj.AssemblyReference.cache
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto Paginacao\Projeto-Paginacao\obj\Debug\net7.0\Projeto-Paginacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto Paginacao\Projeto-Paginacao\obj\Debug\net7.0\Projeto-Paginacao.AssemblyInfoInputs.cache
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto Paginacao\Projeto-Paginacao\obj\Debug\net7.0\Projeto-Paginacao.AssemblyInfo.cs
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto Paginacao\Projeto-Paginacao\obj\Debug\net7.0\Projeto-Paginacao.csproj.CoreCompileInputs.cache
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto Paginacao\Projeto-Paginacao\obj\Debug\net7.0\Projeto-Paginacao.dll
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto Paginacao\Projeto-Paginacao\obj\Debug\net7.0\refint\Projeto-Paginacao.dll
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto Paginacao\Projeto-Paginacao\obj\Debug\net7.0\Projeto-Paginacao.pdb
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto Paginacao\Projeto-Paginacao\obj\Debug\net7.0\Projeto-Paginacao.genruntimeconfig.cache
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto Paginacao\Projeto-Paginacao\obj\Debug\net7.0\ref\Projeto-Paginacao.dll
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Paginacao\Projeto-Paginacao\bin\Debug\net7.0\Projeto-Paginacao.exe
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Paginacao\Projeto-Paginacao\bin\Debug\net7.0\Projeto-Paginacao.deps.json
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Paginacao\Projeto-Paginacao\bin\Debug\net7.0\Projeto-Paginacao.runtimeconfig.json
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Paginacao\Projeto-Paginacao\bin\Debug\net7.0\Projeto-Paginacao.dll
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Paginacao\Projeto-Paginacao\bin\Debug\net7.0\Projeto-Paginacao.pdb
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Paginacao\Projeto-Paginacao\obj\Debug\net7.0\Projeto-Paginacao.csproj.AssemblyReference.cache
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Paginacao\Projeto-Paginacao\obj\Debug\net7.0\Projeto-Paginacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Paginacao\Projeto-Paginacao\obj\Debug\net7.0\Projeto-Paginacao.AssemblyInfoInputs.cache
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Paginacao\Projeto-Paginacao\obj\Debug\net7.0\Projeto-Paginacao.AssemblyInfo.cs
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Paginacao\Projeto-Paginacao\obj\Debug\net7.0\Projeto-Paginacao.csproj.CoreCompileInputs.cache
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Paginacao\Projeto-Paginacao\obj\Debug\net7.0\Projeto-Paginacao.dll
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Paginacao\Projeto-Paginacao\obj\Debug\net7.0\refint\Projeto-Paginacao.dll
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Paginacao\Projeto-Paginacao\obj\Debug\net7.0\Projeto-Paginacao.pdb
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Paginacao\Projeto-Paginacao\obj\Debug\net7.0\Projeto-Paginacao.genruntimeconfig.cache
+C:\Users\zsphS\source\repos\Winpenning\Sistemas-Operacionais\Projeto-Paginacao\Projeto-Paginacao\obj\Debug\net7.0\ref\Projeto-Paginacao.dll
