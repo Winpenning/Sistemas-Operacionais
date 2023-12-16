@@ -1,4 +1,5 @@
 ﻿public class Pagina
+
 {
     public int Id { get; set; }
     public bool Usado {get; set;}

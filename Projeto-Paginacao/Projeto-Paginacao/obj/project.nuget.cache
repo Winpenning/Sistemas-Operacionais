@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9oVpcaTIDvtRV81BCHtPdlc7WlLci4QWYPr+rzgno9PoanmirbfKDTCsnE52CmbFwv6GQBU+9mwpJV+DILem0A==",
+  "dgSpecHash": "FvB+10pn9sgvDyjTukROjYHb+rEnGH/vDyX569o84IdxR7wzT12/DCYT1AYmDDVGf8t88/Sw1xbf9Rwn+Anhzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zsphS\\source\\repos\\Winpenning\\Sistemas-Operacionais\\Projeto-Paginacao\\Projeto-Paginacao\\Projeto-Paginacao.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/winpenning/Documentos/Winpenning/Sistemas-Operacionais/Projeto-Paginacao/Projeto-Paginacao/Projeto-Paginacao.csproj",
+  "expectedPackageFiles": [
+    "/home/winpenning/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/home/winpenning/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/home/winpenning/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.14/microsoft.netcore.app.host.linux-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
